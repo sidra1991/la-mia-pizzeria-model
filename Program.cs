@@ -1,3 +1,9 @@
+
+using la_mia_pizzeria_static.data;
+using la_mia_pizzeria_static.Models;
+
+
+
 var builder = WebApplication.CreateBuilder(args);
 
 // già presente (non inserire)
